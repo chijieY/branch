@@ -5,3 +5,5 @@ git branch -d 分支名 ；  删除分支
 切入分支
 git checkout 分支名；
 git clone 路径；远程到本地；
+git pull;远程仓库代码到本地代码
+
